@@ -171,6 +171,6 @@ reports to CoC Working Group).
 
 #### Acknowledgements
 
-Parts of this document were derived from the Code of Conduct documents of the
-Django, FreeBSD, and Rust projects.
+This document is derived from Go's Code of Conduct, which parts were derived 
+from the Code of Conduct documents of the Django, FreeBSD, and Rust projects.
 
